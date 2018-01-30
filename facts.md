@@ -1,9 +1,6 @@
-# LastName, FirstName (replace with yours)
+# Brown, Gage
 List two truths and one lie about you below
 
-1. 
-1.
-1.
-
-
-Bonus (+1), add your screen shot as an image here.
+1. I like turtles.
+2. Born in Worland, WY
+3. I am the president of the United States.
